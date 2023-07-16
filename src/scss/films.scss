@@ -1,0 +1,72 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+
+  background-image: url("../assets/img/background.jpg");
+  background-repeat: no-repeat;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  height: 1000px;
+
+  margin: 0px 230px 0px 230px;
+}
+
+.menu__filters {
+  margin: 20px 0px 30px;
+  border-radius: 10px;
+  background-color: #2e282a91;
+
+  .menu {
+    &__list {
+      padding: 25px 25px 15px 25px;
+      border-radius: 5px;
+    }
+    li:nth-child(1) {
+      padding-left: 60px;
+      border-radius: 10px 0px 0px 10px;
+    }
+
+    li:nth-child(6) {
+      padding-right: 60px;
+      border-radius: 0px 10px 10px 0px;
+    }
+    li:hover:nth-child(1) {
+      background-color: #cd533491;
+    }
+    li:hover:nth-child(2) {
+      background-color: #17bebb91;
+    }
+    li:hover:nth-child(3) {
+      background-color: #cd533491;
+    }
+    li:hover:nth-child(4) {
+      background-color: #17bebb91;
+    }
+    li:hover:nth-child(5) {
+      background-color: #cd533491;
+    }
+    li:hover:nth-child(6) {
+      background-color: #17bebb91;
+    }
+  }
+}
+.list__films {
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(4, 270px);
+  grid-template-rows: repeat(2, 390px);
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
+
+  padding: 50px 0px;
+  border-radius: 100px;
+  width: calc(100%);
+  background-color: #ffffff30;
+}
+

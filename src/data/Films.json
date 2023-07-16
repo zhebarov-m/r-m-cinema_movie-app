@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://i.pinimg.com/originals/e9/6f/7f/e96f7f3bddb137cf3d7afdc88cb1b68f.png",
+    "title": "Джокер",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://sun9-52.userapi.com/impg/hnU4L6UeqWEgx7JT2gerjamb5G_gAOOMm1jvkA/kd7ro2Y4SAw.jpg?size=781x1128&quality=96&sign=cd64442dfc39c042655e4ee84cf92c85&c_uniq_tag=XxXqeCIwaPyzo4qdkZvcNxuhyENQBz5ies1CHN14UH8&type=album",
+    "title": "Кот в Сапогах",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://i.mycdn.me/i?r=AyH4iRPQ2q0otWIFepML2LxRG57bvZ7F_ODA8Uz8FoAnDQ&fn=h_768",
+    "title": "Достать ножи",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/b8477381-7ca7-44f3-83a2-6a1610779adc/3840x",
+    "title": "Начало",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTdkYWZjMTYtNWQ2My00MmQzLThmMTgtYzMwMzM3M2JmZGZhXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_.jpg",
+    "title": "Невидимый гость",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/1d2e6996f8383f18c66c39ae38c07f38d328bcb454d79332705be29481afb7e0._RI_V_TTW_.jpg",
+    "title": "Достать ножи",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://en-images.kinorium.com/movie/1080/700919.jpg?1509002990",
+    "title": "Полтора шпиона",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://media.filmz.ru/photos/full/filmz.ru_f_205748.jpg",
+    "title": "Другая Бовари",
+    "types": [0, 1],
+    "sizes": 124,
+    "date": 2019,
+    "category": 0,
+    "rating": 4
+  }
+]
