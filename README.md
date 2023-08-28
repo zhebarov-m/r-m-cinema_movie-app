@@ -1,5 +1,8 @@
-# React project for the React Course
+# My FIRST React-project
+<hr>
 
+<h3>Мой первый проект на Реакт, который я начал, но пока так и не докончил</h3>
+<hr>
 ## Available Scripts
 
 In the project directory, you can run:
